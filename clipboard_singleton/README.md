@@ -33,4 +33,4 @@ Essa abordagem permite um comportamento dinâmico e contexto-sensível para o us
 
 ## De Para
 
-Seguindo os participantes citados no GOF, o participante Singleton seria a classe DiagramClipBoardSingleton
+Seguindo os participantes citados no GOF, o participante **Singleton** seria a classe **DiagramClipBoardSingleton**
